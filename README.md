@@ -4,8 +4,13 @@
 
 ## 项目列表
 
-- [TodoTree](https://github.com/Infinite-Monkey-Lab/todotree) — 本地优先的 Markdown 桌面任务树。
-- [FeiyuCursor](https://github.com/Infinite-Monkey-Lab/FeiyuCursor) — Windows 鼠标指针主题与生成工具。
+- **[TodoTree](https://github.com/Infinite-Monkey-Lab/todotree)** — 本地优先的 Markdown 桌面任务树。
+  - 状态：README 标注当前版本 v1.7.0；维护者：待确认。许可证：MIT。
+  - [快速开始与下载](https://github.com/Infinite-Monkey-Lab/todotree#-快速开始) · [Issues](https://github.com/Infinite-Monkey-Lab/todotree/issues) · [Releases](https://github.com/Infinite-Monkey-Lab/todotree/releases)
+- **[FeiyuCursor](https://github.com/Infinite-Monkey-Lab/FeiyuCursor)** — Windows 鼠标指针主题与生成工具。
+  - 状态：提供 Windows 指针下载包；维护者：yunyancuo。
+  - 许可证：MIT 仅适用于作者有权许可的代码与文档；素材范围见 [LICENSE-SCOPE.md](https://github.com/Infinite-Monkey-Lab/FeiyuCursor/blob/main/LICENSE-SCOPE.md)。
+  - [下载与使用说明](https://github.com/Infinite-Monkey-Lab/FeiyuCursor) · [Issues](https://github.com/Infinite-Monkey-Lab/FeiyuCursor/issues) · [Releases](https://github.com/Infinite-Monkey-Lab/FeiyuCursor/releases)
 
 ## 收录字段规范
 
